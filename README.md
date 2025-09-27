@@ -1,2 +1,2 @@
 # localrepo
-this is local repo for feature branch.
+this is local repo 
